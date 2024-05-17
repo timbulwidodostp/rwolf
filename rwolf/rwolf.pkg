@@ -1,5 +1,6 @@
-d 'DEA': Data envelopment analysis
+d 'rwolf': Romano Wolf stepdown code Use rwolf for STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f rwolf.ado
+f rwolf.sthlp
+f rwolf2.ado
+f rwolf2.sthlp
